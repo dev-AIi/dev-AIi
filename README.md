@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asliddin
 - 👀 I’m interested in writing useless code
-- 🌱 I’m currently BSCS & BSBA student in ADA university and UoPeople
+- 🌱 I’m currently BSCS & ASCS student in ADA university and UoPeople
 - 📫 How to reach me? asliddin.is17@gmail.com
 - Fun fact: I like challenges
 <!---
